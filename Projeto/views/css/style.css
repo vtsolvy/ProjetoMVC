@@ -1,0 +1,32 @@
+.container {
+    max-width: 400px !important;
+    border-radius: 15px;
+    border: 0.1em solid;
+    padding: 30px;
+    border-color: #cfd6dc;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  
+  td {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    min-width: 1000px !important;
+    border-radius: 15px;
+    border: 0.1em solid;
+    padding: 30px;
+    border-color: #cfd6dc;
+  }
+  
+  .text-center{
+    margin-bottom: 20px;
+  }
+  
+  .botaodireita{
+    text-align:right;
+  }
